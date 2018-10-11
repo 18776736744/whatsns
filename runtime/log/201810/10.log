@@ -1,0 +1,729 @@
+---------------------------------------------------------------
+[ 2018-10-10T16:25:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:07+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:20+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:21+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:22+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:22+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:22+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:22+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:22+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1]Class 'app\index\controller\think\Controller' not found
+---------------------------------------------------------------
+[ 2018-10-10T16:26:36+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:05+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:33+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+---------------------------------------------------------------
+[ 2018-10-10T16:29:54+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.071796s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.025755s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000517s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:29:55+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002458s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007201s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000532s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:29:55+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003075s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.009186s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000546s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:29:55+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002646s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.009972s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000530s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:29:56+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002311s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.008941s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000525s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:30:54+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008803s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010979s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000492s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:30:55+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003070s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.008892s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000471s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:31:42+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002829s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010224s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000505s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:27+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003845s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007153s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000713s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:28+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002374s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007186s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000490s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:28+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004696s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007084s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000608s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:28+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003237s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010227s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000459s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:28+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002697s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.009587s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000498s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:33+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002612s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007919s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000920s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:33+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004715s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007280s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000509s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003026s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.011726s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000465s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003354s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010082s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000483s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:33:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002788s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.008699s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000459s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:47+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002912s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.009154s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000534s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:48+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003869s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.008741s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000520s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:49+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002256s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010675s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000539s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:49+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002675s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.012510s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000672s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:49+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003997s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.010868s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000480s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:49+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003374s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.011208s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000481s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:52+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003400s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.011474s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000652s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002902s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.011306s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000588s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002349s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.011151s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000566s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003197s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007888s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000674s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002239s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.007916s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.001430s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:35:53+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002944s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_answer` [ RunTime:0.009439s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_answer` [ RunTime:0.000535s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:36:56+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002690s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.007127s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000642s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:36:57+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002620s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.010098s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000694s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:36:57+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002336s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.007290s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000551s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:36:57+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002303s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.008523s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000667s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:08+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007446s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.009395s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000721s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:08+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002244s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.008656s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000489s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:09+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002260s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.008125s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000488s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:09+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003840s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.006633s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000609s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:09+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002333s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.007969s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000525s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:09+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002410s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.007382s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000546s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:37:09+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002338s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.008024s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000623s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-10-10T16:39:51+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.143373s][吞吐率：6.97req/s] [内存消耗：1,958.85kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011437s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.008915s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.001283s ]
+[ error ] [0]variable type error： array[D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2018-10-10T16:40:17+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.080542s][吞吐率：12.42req/s] [内存消耗：1,942.69kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001880s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.010078s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000735s ]
+---------------------------------------------------------------
+[ 2018-10-10T16:40:34+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.081369s][吞吐率：12.29req/s] [内存消耗：1,942.69kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002314s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.011536s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000652s ]
+---------------------------------------------------------------
+[ 2018-10-10T16:40:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.068317s][吞吐率：14.64req/s] [内存消耗：1,942.69kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001896s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.010484s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000526s ]
+---------------------------------------------------------------
+[ 2018-10-10T16:40:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.072700s][吞吐率：13.76req/s] [内存消耗：1,942.69kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001778s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.010085s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000636s ]
+---------------------------------------------------------------
+[ 2018-10-10T16:40:35+08:00 ] 0.0.0.0 GET /whatsns/public/
+[ info ] localhost/whatsns/public/ [运行时间：0.073007s][吞吐率：13.70req/s] [内存消耗：1,942.69kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001626s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.009350s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000614s ]
+---------------------------------------------------------------
+[ 2018-10-10T18:00:54+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/index/index
+[ info ] localhost/whatsns/public/index.php/index/index/index [运行时间：0.097808s][吞吐率：10.22req/s] [内存消耗：1,942.48kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006840s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_attach` [ RunTime:0.010693s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_attach` [ RunTime:0.000542s ]
+---------------------------------------------------------------
+[ 2018-10-10T18:01:03+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.033511s][吞吐率：29.84req/s] [内存消耗：1,360.89kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-10-10T18:01:10+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.085356s][吞吐率：11.72req/s] [内存消耗：2,030.10kb] [文件加载：54]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002279s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_category` [ RunTime:0.009560s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_category` WHERE  (  pid= 0 ) [ RunTime:0.000847s ]
+[ error ] [8]未定义变量: category[D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php:16]
+---------------------------------------------------------------
+[ 2018-10-10T18:01:32+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.083025s][吞吐率：12.04req/s] [内存消耗：1,944.20kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003278s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_category` [ RunTime:0.008908s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_category` WHERE  (  pid= 0 ) [ RunTime:0.000676s ]
+---------------------------------------------------------------
+[ 2018-10-10T18:01:58+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.057221s][吞吐率：17.48req/s] [内存消耗：1,361.27kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-10-10T18:02:22+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.060142s][吞吐率：16.63req/s] [内存消耗：1,361.27kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-10-10T18:06:34+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.060405s][吞吐率：16.55req/s] [内存消耗：1,361.31kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-10-10T18:07:44+08:00 ] 0.0.0.0 GET /whatsns/public/index.php/index/category/index
+[ info ] localhost/whatsns/public/index.php/index/category/index [运行时间：0.066307s][吞吐率：15.08req/s] [内存消耗：1,944.23kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\whatsns\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=2251074560; pgv_si=s9687697408',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Category->index[ D:\phpStudy\PHPTutorial\WWW\whatsns\application\index\controller\Category.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006469s ] mysql:host=localhost;dbname=whatsns;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `whatsns_category` [ RunTime:0.009191s ]
+[ sql ] [ SQL ] SELECT * FROM `whatsns_category` WHERE  (  pid= 0 ) [ RunTime:0.000546s ]
